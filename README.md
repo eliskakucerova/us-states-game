@@ -1,6 +1,6 @@
 ### US states game
 
-The project is simple game when the player is asked to guess all 50 states of US. When you write secret word Exit, it is generated the list "Which name of states you should learn".
+The project is a simple game in which the player is asked to guess all 50 states of the US. When the player enters the secret word 'Exit', a list of the states that they still need to learn is generated.
   
 The project is written in Python. This project was created to practice list comprehension and Pandas library.
 
